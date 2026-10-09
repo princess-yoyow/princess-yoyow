@@ -1,7 +1,7 @@
 
 <div align="center">
-
-<img src="./princess_yoyow_capybara.gif" width="100%" alt="Walking Pixel Art Capybara" />
+  <img src="./assets/pink-wave.svg" width="100%" alt="Animated pink wave banner" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&duration=3000&pause=2000&color=E9A0CB&center=true&vCenter=true&width=750&height=50&lines=PRINCESS+YOYOW" alt="Princess Yoyow" />
 
