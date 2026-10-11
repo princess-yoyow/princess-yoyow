@@ -3,7 +3,7 @@
 
 <img src="./princess_yoyow_capybara.gif" width="100%" alt="Walking Pixel Art Capybara" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&duration=3000&pause=2000&color=E9A0CB&center=true&vCenter=true&width=750&height=50&lines=PRINCESS+YOYOW" alt="Selvi Melani" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=19&duration=3000&pause=2000&color=E9A0CB&center=true&vCenter=true&width=750&height=50&lines=SELVI+MELANI" alt="Selvi Melani" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=1200&color=BFA2E8&center=true&vCenter=true&width=750&height=35&lines=Welcome+to+my+cyber+world;Cybersecurity+%7C+CTF+%7C+Pentesting;Learning+one+challenge+at+a+time" alt="Pixel Typing Animation" />
 
